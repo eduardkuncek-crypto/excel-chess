@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.claude-flow/
+ruvector.db
+~$*
+.~lock.*
