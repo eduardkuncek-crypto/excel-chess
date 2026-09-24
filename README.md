@@ -50,7 +50,7 @@ over 38 games per match from 19 openings, each played once with each colour:
 |---|---|---|
 | 2 half-moves | 31.5/38 vs 1320, 15/38 vs 1600 | **~1550** |
 | 3 half-moves | 34.5/38 vs 1320, 18/38 vs 1700 | **~1700** |
-| 4 half-moves | 37.5/38 vs 1320 | well above 1700, more games running |
+| 4 half-moves | 37.5/38 vs 1320, 25/38 vs 2000 | **~2100** |
 
 These are Stockfish-scale ratings, not a chess.com rating. How deep it actually searches depends
 on what runs the macros: in LibreOffice Calc it reaches about 2 half-moves in 3 seconds (LibreOffice's
